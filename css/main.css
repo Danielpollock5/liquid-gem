@@ -1,0 +1,271 @@
+body{
+	
+	background-color: #ECECEC;
+	border: 1px solid #ECECEC;
+}
+/*////////makes the logo smaller\\\\\\\\\*/
+#diamondNav{
+	content-top: 20px;
+	height: 40px;
+	width:40px;
+	color: #9F9DA1;
+	border: 1px solid ##ECECEC;
+
+}
+#title{
+	display: inline-block;
+	border: 1px solid ##ECECEC;
+
+
+}
+nav{
+	font-family: 'Dancing Script', sans-serif;
+	border: 1px solid #ECECEC;
+	vertical-align: center;
+
+}
+a{
+	text-decoration: none;
+	border: 1px solid #ECECEC ;
+	float: right;
+	color: #9F9DA1;
+	margin-top: 20px;
+	margin-left: 45px;
+	border: none;
+	
+
+}
+h3{
+	border: 1px solid #ECECEC;
+	text-align: center;
+	font-family: 'Fira Sans Condensed', sans-serif;
+	font-size: 26px;
+}
+#smallMain{
+	text-align: center;
+	border: 1px solid #ECECEC;
+	font-size: 18px;
+}
+#Daniel{
+	color: #E2B5C5;
+	border: 1px solid #ECECEC;
+}
+#sunset{
+	height: 600px;
+	border: 1px solid #ECECEC;
+	width: 100%;
+	align-self: center;
+	border-radius: 25px;
+}
+h6{
+	border: 1px solid #ECECEC;
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Dancing Script', sans-serif;
+	color: #9F9DA1;
+}
+.columns{
+
+	border: 1px solid #ECECEC;
+	column-count: 2;
+
+}
+#aboutMe{
+	text-align: center;
+	width: 45%;
+	border: 1px solid #ECECEC;
+	margin-left: 250px;
+
+}
+#myWork{
+
+	width: 45%;
+	border: 1px solid #ECECEC;
+	text-align: center;
+	margin-left: 250px;
+}
+/*///////////THE START OF THE TEN PICS\\\\\\\\\\*/
+/*////////////First five pics\\\\\\\\\\\\\\\\\\*/
+.small{
+	font-size: 14px;
+	opacity: 0.6;
+}
+.big{
+	font-size: 20px;
+	font-weight: bold;
+}
+.topPics{
+	bottom-border: none;
+	text-align: left;
+	
+	margin-top: 80px;
+
+	
+
+}
+#spain{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+	
+	
+}
+#bahrain{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+
+}
+#zebra{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+
+}
+#cat{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+
+}
+#trapped{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+	
+
+}
+#first, #second,
+#third, #fourth,
+#fifth{
+	display: inline-block;
+	margin-left: 100px;
+	background-color: white;
+	border-radius: 20px;
+}
+/*bottom five pics*/
+.bottomPics{
+	margin-top: 40px;
+	bottom-border: none;
+	text-align: left;
+	
+}
+	
+#quadcore{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+	
+	
+}
+#retro{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+
+}
+#gate{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+
+}
+#winter{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+
+}
+#burn{
+	height: 200px;
+	width: 200px;
+	border-radius: 20px;
+}
+#sixth, #seventh,
+#eighth, #ninth,
+#tenth{
+	display: inline-block;
+	margin-left: 100px;
+	background-color: white;
+	border-radius: 20px;
+}
+h4{
+	font-family: 'Dancing Script', sans-serif;
+	text-align: center;
+	font-size: 30px;
+	color: #DFB6BB;
+}
+.bottom{
+	background-color: #2D2D2D;
+	height: 300px;
+	margin: -20px;
+
+}
+#contactForm{
+	color: #B2646A;
+	font-family: 'Dancing Script', sans-serif;
+	font-size: 30px;
+}
+#footer{
+	width: 60%;
+}
+form{
+	margin-left: 20px;
+	width: 50%;
+}
+
+#name, #email{
+	width: 75%;
+	margin-top: 15px;
+}
+textarea{
+	width: 37.5%;
+}
+#text{
+	height: 70px;
+	margin-left: 20px;
+	margin-top: 15px;
+}
+
+button{
+	border: none;
+	cursor: pointer;
+	color: white;
+	background: transparent;
+	padding-top: -210px;
+	display: block;
+	margin-left: 20px;
+	
+}
+i{
+	color: white;
+	height: 50px;
+	width: 50px;
+	margin-right: 50px;
+	margin-bottom: 0;
+	background-color: #CA7982;
+	border-radius: 40px;
+	margin-top: -45px;
+	position: static;
+
+	
+}
+.social{
+	margin-top: -115px;
+	text-align: center;
+}
+
+
+a:hover{
+	color: yellow;
+	cursor: pointer;
+}
+i:hover{
+	color: yellow;
+	cursor: pointer;
+}
+
+
+
+
+
