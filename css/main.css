@@ -239,14 +239,14 @@ button{
 }
 i{
 	color: white;
-	height: 50px;
-	width: 50px;
+	height: 30px;
+	width: 30px;
 	margin-right: 50px;
 	margin-bottom: 0;
 	background-color: #CA7982;
-	border-radius: 40px;
+	border-radius: 50%;
 	margin-top: -45px;
-	position: static;
+	padding: 10px;
 
 	
 }
